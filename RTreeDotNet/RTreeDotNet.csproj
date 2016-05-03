@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <TargetFrameworks>net451;netstandard1.3</TargetFrameworks>
+    
+    <PackageLicenseUrl>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/mcintyre321/RTreeDotNet</PackageProjectUrl>
+    <Description>.NET Core / 451 / Standard port of Java Spatial Index https://github.com/aled/jsi which is an RTree with add/delete and N Nearest Neighbours search
+</Description>
+    <Authors>Harry McIntyre</Authors>
+    <Company>Harry McIntyre</Company>
+    <Product>Harry McIntyre</Product>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

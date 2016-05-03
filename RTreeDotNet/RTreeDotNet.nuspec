@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>RTreeDotNet</title>
+    <authors>Harry McIntyre</authors>
+    <owners>Harry McIntyre</owners>
+    <licenseUrl>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html</licenseUrl>
+    <projectUrl>https://github.com/mcintyre321/RTreeDotNet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Portable .NET port of Java Spatial Index https://github.com/aled/jsi which is an RTree with add/delete and N Nearest Neighbours search
+    </description>
+    <copyright>Copyright 2014</copyright>
+    <tags>RTree, Spatial Index, </tags>
+  </metadata>
+</package>
